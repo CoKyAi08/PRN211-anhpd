@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditStaffcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

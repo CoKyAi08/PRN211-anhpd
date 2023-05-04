@@ -1,0 +1,32 @@
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\ASS1_PRN211\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\ASS1_PRN211\Ass01Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

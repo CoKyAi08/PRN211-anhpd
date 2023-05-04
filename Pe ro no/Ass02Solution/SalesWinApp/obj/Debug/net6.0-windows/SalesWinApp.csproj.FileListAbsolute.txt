@@ -1,0 +1,134 @@
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\PRN211\aaaa\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll

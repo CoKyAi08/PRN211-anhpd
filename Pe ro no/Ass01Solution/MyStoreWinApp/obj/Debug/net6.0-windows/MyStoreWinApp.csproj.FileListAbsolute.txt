@@ -1,0 +1,66 @@
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberAdd.resources
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\ASS1_PRN211\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberAdd.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\fpt\Kì 5 fpt\Pe ro no\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll

@@ -1,0 +1,138 @@
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.exe
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.deps.json
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.runtimeconfig.json
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.pdb
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Humanizer.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.GenerateResource.cache
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.AssemblyInfoInputs.cache
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.AssemblyInfo.cs
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.CopyComplete
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\refint\HotelManagementSystem.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.pdb
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.genruntimeconfig.cache
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\ref\HotelManagementSystem.dll
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmHome.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.HomeController.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.Login.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\appsettings.json
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAddAccount.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAddStaff.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAdmin.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmBooking.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmEditStaffcs.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmManage.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmManageStaff.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmUpdatePrice.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewAccount.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewBooking.resources
+D:\FULearning\Spring2023\PRN211\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewRoom.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\appsettings.json
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.exe
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.deps.json
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.runtimeconfig.json
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\HotelManagementSystem.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Humanizer.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmHome.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAddAccount.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAddStaff.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmAdmin.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmBooking.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmEditStaffcs.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmManage.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmManageStaff.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmUpdatePrice.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewAccount.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewBooking.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.frmViewRoom.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.HomeController.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.Login.resources
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.GenerateResource.cache
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.AssemblyInfoInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.AssemblyInfo.cs
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.csproj.CopyComplete
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\refint\HotelManagementSystem.dll
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.pdb
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\HotelManagementSystem.genruntimeconfig.cache
+D:\fpt\Kì 5 fpt\Pe ro no\G3_PRN211_PROJECT\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0-windows\ref\HotelManagementSystem.dll
